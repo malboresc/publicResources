@@ -1,5 +1,5 @@
 # publicResources
-![](descarga.png)
-![](logo_flexcore.png)
-![](Infotec.png)
+![](bancoDelBienestar.png)
+![](flexcore.png)
+![](infotec.png)
 
